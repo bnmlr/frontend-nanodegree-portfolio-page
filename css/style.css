@@ -1,0 +1,64 @@
+@import url(http://weloveiconfonts.com/api/?family=brandico);
+
+/* brandico */
+[class*="brandico-"]:before {
+  font-family: 'brandico', sans-serif;
+  font-size: 22px;
+}
+
+h1, h2, h3 {
+	font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+	font-weight: 300;
+	font-size: 48px;
+}
+
+h3 {
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+p {
+	font-family: 'Roboto', sans-serif;
+}
+
+hr {
+	border-top: 5px solid #eeeeee;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.navbar-brand {
+	padding-top: 5px;
+
+}
+
+.my-picture {
+  display: block;
+  margin: 0 auto 10px;
+  max-width: 100%;
+  border: 2px solid white;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+}
+
+.link {
+	margin-bottom: 20px;
+
+}
+
+.bodyText {
+	font-size: 22px;
+}
+
+.social-link:hover {
+	text-decoration: none;
+}
+
+footer {
+	font-size: 9px;
+	background-color: #000080;
+}
